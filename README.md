@@ -10,5 +10,6 @@ Meu primeiro projeto em programação.
 
 ## Instalação e utilização
 
-1. Faça fork ou clone o repositório através do link git@github.com:rzra1/first-project.git ;
-2. Utilize a extensão Live Server para todar o projeto em seu navegador ;
+[Clone através do link](git@github.com:rzra1/first-project.git)
+
+[Utilize a extensão Live Server para rodar o projeto em seu navegador]()
