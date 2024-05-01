@@ -8,8 +8,15 @@ Meu primeiro projeto em programação.
 - [HTML]
 - [CSS]
 
-## Instalação e utilização
+## Como usar
 
-[Clone através do link](git@github.com:rzra1/first-project.git)
+Para clonar e rodar a aplicação, você precisará do [Git](https://git-scm.com), [VS Code](https://code.visualstudio.com/) .
 
-[Utilize a extensão Live Server para rodar o projeto em seu navegador]()
+<br/><br/>
+
+<p>Projeto desenvolvido por:</p>
+<ul>
+  <li><a href="https://github.com/rzra1">Rai Casarin Munhoes</a></li>
+</ul>
+
+<br/><br/>
